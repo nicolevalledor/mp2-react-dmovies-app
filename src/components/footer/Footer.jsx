@@ -25,7 +25,7 @@ const Footer = () => {
           DMOVIES is a Free Movies streaming site with zero ads. We let you
           watch movies online without having to register or paying, with over
           10000 movies and TV-Series. You can also Download full movies from
-          HiMovies.to and watch it later if you want.
+          DMOVIES and watch it later if you want.
         </div>
         <div className="socialIcons">
           <span className="icon">
@@ -42,7 +42,7 @@ const Footer = () => {
           </span>
         </div>
         <div className="menuItem">
-          &copy; {new Date().getFullYear()} DMOVIES. All Rights Reserved.
+          &copy; 2023 DMOVIES. All Rights Reserved.
         </div>
       </ContentWrapper>
     </footer>

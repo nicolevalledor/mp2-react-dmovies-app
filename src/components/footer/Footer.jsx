@@ -41,7 +41,7 @@ const Footer = () => {
             <FaLinkedin />
           </span>
         </div>
-        <div className="footer">
+        <div className="menuItem">
           &copy; {new Date().getFullYear()} DMOVIES. All Rights Reserved.
         </div>
       </ContentWrapper>

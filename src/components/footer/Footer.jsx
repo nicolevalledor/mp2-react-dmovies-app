@@ -41,7 +41,7 @@ const Footer = () => {
             <FaLinkedin />
           </span>
         </div>
-        <div className="credit">
+        <div className="footer">
           &copy; {new Date().getFullYear()} DMOVIES. All Rights Reserved.
         </div>
       </ContentWrapper>
